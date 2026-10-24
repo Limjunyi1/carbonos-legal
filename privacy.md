@@ -29,7 +29,7 @@ Unless you turn on Backup, we cannot see, back up or recover this data. Your pho
 
 | What | Why | Legal basis | Kept |
 | --- | --- | --- | --- |
-| Email address and password (stored hashed) | Signing in, password-reset emails | Contract | Until you delete your account |
+| Email address and password (stored hashed), or, if you use Sign in with Apple, your Apple account identifier and the email Apple gives us (which may be a private relay address) | Signing in, password-reset emails | Contract | Until you delete your account |
 | Your plan (Free or Pro) and renewal date | Unlocking Pro | Contract | Until you delete your account |
 | How many scans and messages you used each day and week | Fair-use limits | Contract | Until you delete your account |
 | A copy of your log (only if you turn on Backup; no photos, no health-app data) | Restoring on a new phone | Your consent | Until you turn Backup off or delete your account |
@@ -65,11 +65,11 @@ These companies handle data for us, under terms that limit them to providing Car
 
 | Company | What it handles | Where |
 | --- | --- | --- |
-| Supabase | Your account, plan, usage counts, backup, and sign-in emails | Singapore |
+| Supabase | Your account, plan, usage counts, backup, sign-in and Sign in with Apple identifiers, and sign-in emails | Singapore |
 | BytePlus ModelArk | Each request to Carbon while it is answered | BytePlus data centres, including Malaysia and Indonesia |
 | Fly.io | Our server, which passes requests through | Singapore |
 | RevenueCat | Subscription status, linked to your account id | United States |
-| Apple and Google | Payment for Pro, under their own privacy policies | Their own |
+| Apple and Google | Payment for Pro, and Sign in with Apple, under their own privacy policies | Their own |
 
 If we change AI provider, we update this table first, and ask your permission again if what is sent changes.
 

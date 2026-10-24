@@ -32,7 +32,7 @@ Melainkan anda menghidupkan Sandaran, kami tidak dapat melihat, membuat sandaran
 
 | Apa | Mengapa | Asas undang-undang | Tempoh simpanan |
 | --- | --- | --- | --- |
-| Alamat e-mel dan kata laluan (disimpan dalam bentuk hash) | Log masuk, e-mel set semula kata laluan | Kontrak | Sehingga anda memadam akaun |
+| Alamat e-mel dan kata laluan (disimpan dalam bentuk hash), atau, jika anda menggunakan Sign in with Apple, pengecam akaun Apple anda dan e-mel yang Apple berikan kepada kami (mungkin alamat geganti peribadi) | Log masuk, e-mel set semula kata laluan | Kontrak | Sehingga anda memadam akaun |
 | Pelan anda (Percuma atau Pro) dan tarikh pembaharuan | Membuka Pro | Kontrak | Sehingga anda memadam akaun |
 | Bilangan imbasan dan mesej yang digunakan setiap hari dan minggu | Had penggunaan saksama | Kontrak | Sehingga anda memadam akaun |
 | Salinan log anda (hanya jika Sandaran dihidupkan; tanpa foto, tanpa data aplikasi kesihatan) | Memulihkan di telefon baharu | Persetujuan anda | Sehingga anda mematikan Sandaran atau memadam akaun |
@@ -68,11 +68,11 @@ Syarikat-syarikat ini mengendalikan data bagi pihak kami, di bawah terma yang me
 
 | Syarikat | Apa yang dikendalikan | Lokasi |
 | --- | --- | --- |
-| Supabase | Akaun, pelan, bilangan penggunaan, sandaran dan e-mel log masuk anda | Singapura |
+| Supabase | Akaun, pelan, bilangan penggunaan, sandaran, pengecam log masuk dan Sign in with Apple, serta e-mel log masuk anda | Singapura |
 | BytePlus ModelArk | Setiap permintaan kepada Carbon semasa ia dijawab | Pusat data BytePlus, termasuk Malaysia dan Indonesia |
 | Fly.io | Pelayan kami, yang menyalurkan permintaan | Singapura |
 | RevenueCat | Status langganan, dipautkan kepada id akaun anda | Amerika Syarikat |
-| Apple dan Google | Pembayaran untuk Pro, di bawah dasar privasi mereka sendiri | Lokasi mereka sendiri |
+| Apple dan Google | Pembayaran untuk Pro dan Sign in with Apple, di bawah dasar privasi mereka sendiri | Lokasi mereka sendiri |
 
 Jika kami menukar penyedia AI, kami mengemas kini jadual ini terlebih dahulu, dan meminta kebenaran anda semula jika apa yang dihantar berubah.
 
