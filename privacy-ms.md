@@ -5,7 +5,7 @@ lang: ms
 ---
 # Dasar Privasi CarbonOS
 
-*Berkuat kuasa 24 Oktober 2026 · [English](../privacy/) · [Terma Penggunaan](../terms/) (dalam bahasa Inggeris)*
+*Berkuat kuasa 25 Oktober 2026 · [English](../privacy/) · [Terma Penggunaan](../terms/) (dalam bahasa Inggeris)*
 
 CarbonOS menyimpan log anda di telefon anda. Pelayan kami hanya menyimpan akaun anda, pelan anda dan jumlah peruntukan yang telah anda gunakan, serta salinan log anda hanya jika anda menghidupkan Sandaran. Kami tidak sekali-kali menjual data anda, memaparkan iklan atau menjejaki anda merentas aplikasi lain.
 
@@ -24,6 +24,7 @@ Apa yang anda log disimpan di peranti anda, dalam pangkalan data aplikasi dan da
 - Senaman dan timbang berat badan
 - Profil anda untuk sasaran (jantina, tahun lahir, tinggi, berat, tahap aktiviti, matlamat) dan sasaran anda
 - Perbualan anda dengan Carbon, pelan makan dan ulasan mingguan
+- Bilangan kad kongsi yang telah anda gunakan bulan ini, dan kapsyen yang anda siarkan baru-baru ini (supaya yang seterusnya berbeza)
 - Langkah dan tenaga aktif daripada Apple Health atau Health Connect, jika anda menyambungkannya (dipaparkan, tidak disimpan)
 
 Melainkan anda menghidupkan Sandaran, kami tidak dapat melihat, membuat sandaran atau memulihkan data ini. Sandaran telefon anda sendiri (iCloud atau Google) mungkin termasuk pangkalan data aplikasi, tertakluk kepada terma penyedia tersebut; ia tidak termasuk data Apple Health atau Health Connect, kerana CarbonOS tidak menyimpannya.
@@ -36,6 +37,7 @@ Melainkan anda menghidupkan Sandaran, kami tidak dapat melihat, membuat sandaran
 | Pelan anda (Percuma atau Pro) dan tarikh pembaharuan | Membuka Pro | Kontrak | Sehingga anda memadam akaun |
 | Bilangan imbasan dan mesej yang digunakan setiap hari dan minggu | Had penggunaan saksama | Kontrak | Sehingga anda memadam akaun |
 | Salinan log anda (hanya jika Sandaran dihidupkan; tanpa foto, tanpa data aplikasi kesihatan) | Memulihkan di telefon baharu | Persetujuan anda | Sehingga anda mematikan Sandaran atau memadam akaun |
+| Permintaan untuk kapsyen kad kongsi: bilangan dan nama pendek, tidak sekali-kali apa yang anda taip (lihat "Kad kongsi" di bawah) | Menulis kapsyen, dan had harian | Persetujuan anda | Tidak disimpan; hanya kiraan sementara dalam memori untuk had harian |
 | Log operasi: masa, alamat IP, ciri yang digunakan, masa respons dan saiz; tidak sekali-kali apa yang anda katakan | Keselamatan dan menjalankan perkhidmatan | Kepentingan sah | Sehingga 30 hari |
 
 ## Apabila anda bertanya kepada Carbon
@@ -49,6 +51,12 @@ Permintaan kepada Carbon mengandungi apa yang anda taip atau foto makanan anda, 
 - Data Apple Health dan Health Connect, e-mel anda, fail vault anda dan foto yang tidak anda imbas tidak sekali-kali dihantar kepada AI.
 
 Apa yang anda log boleh mendedahkan maklumat kesihatan. Kami menganggapnya sebagai data peribadi sensitif dan menghantarnya kepada AI hanya dengan kebenaran nyata anda.
+
+## Kad kongsi
+
+Anda boleh menukar minggu anda, sehari, satu angkat berat, satu rentetan log atau ringkasan lain menjadi gambar untuk disiarkan atau dihantar. Gambar itu dilukis di telefon anda daripada log anda sendiri dan diserahkan kepada helaian kongsi telefon anda. CarbonOS tidak memuat naiknya atau menyimpan salinan: ia hanya pergi ke mana anda pilih untuk menghantarnya, dan selepas itu aplikasi atau orang itu mengendalikannya mengikut terma mereka sendiri. Kad boleh menunjukkan perkara daripada log anda, seperti nama makanan dan senaman, bilangan, waktu dalam sehari dan rentetan log. Ia tidak sekali-kali menunjukkan berat badan anda, imej badan, kalori berbanding sasaran, atau foto anda. Semak kad sebelum menyiarkannya: sesiapa yang anda kongsikan dapat melihat semua yang ada padanya.
+
+Kapsyen pada kad boleh ditulis oleh AI. Jika anda telah membenarkan AI, aplikasi menghantar ringkasan pendek kad kepada pelayan kami: tajuk, hari dalam minggu, bilangan (contohnya hari yang dilog, makanan, senaman, set, rentetan log), sehingga beberapa nama makanan, senaman dan otot, serta kapsyen yang baru dipaparkan kepada anda supaya yang baharu berbeza. Bukan foto anda, mesej anda, berat badan anda, kalori anda atau sebarang data aplikasi kesihatan. Ia dikendalikan seperti permintaan kepada Carbon: pelayan kami tidak menyimpannya, penyedia AI kami (BytePlus ModelArk) menulis kapsyen mengikut arahan kami, dan kami mengehadkan bilangan kapsyen yang boleh anda minta setiap hari. Jika anda belum membenarkan AI, atau anda tiada talian, kapsyen datang daripada baris yang ditulis dalam aplikasi dan tiada apa dihantar.
 
 ## Imbasan kod bar
 

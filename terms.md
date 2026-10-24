@@ -4,7 +4,7 @@ permalink: /terms/
 ---
 # CarbonOS Terms of Use
 
-*Effective 24 October 2026 (version 2026-10-24) · [Privacy Policy](../privacy/)*
+*Effective 25 October 2026 (version 2026-10-25) · [Privacy Policy](../privacy/)*
 
 Please read these terms carefully. By creating an account or using CarbonOS you confirm that you have read them, that you agree to them, and that you are 18 or over. If you do not agree, do not use CarbonOS.
 
@@ -31,11 +31,11 @@ Changing what you eat or how you train carries risk, including injury, illness a
 
 ## 5. AI and food-data accuracy
 
-Carbon is an AI and can be wrong, incomplete, out of date or misunderstand you. Photo estimates are rough: portions, hidden oils and ingredients are guessed. Barcode data comes from Open Food Facts, a crowd-sourced database that may contain mistakes. We do not guarantee that any answer, number, plan, target, suggestion or reminder is accurate, complete or suitable for you. Check anything that matters.
+Carbon is an AI, including when it writes the caption on a share card, and can be wrong, incomplete, out of date or misunderstand you. Photo estimates are rough: portions, hidden oils and ingredients are guessed. Barcode data comes from Open Food Facts, a crowd-sourced database that may contain mistakes. We do not guarantee that any answer, number, plan, target, suggestion or reminder is accurate, complete or suitable for you. Check anything that matters.
 
 ## 6. Using CarbonOS fairly
 
-Free includes 40 messages to Carbon a day and 5 photo scans a week. Pro includes 150 messages a day and up to 30 photo scans a day. We may also limit how fast you can send requests (currently 20 scans an hour) to stop abuse. You must not:
+Free includes 40 messages to Carbon a day and 5 photo scans a week. Pro includes 150 messages a day and up to 30 photo scans a day. Share cards (section 8): Free includes one card shared a month, Pro has no monthly limit, and the AI caption writer is limited per day (currently 6 on Free and 40 on Pro). We may also limit how fast you can send requests (currently 20 scans an hour) to stop abuse. You must not:
 
 - try to get around limits, or attack, overload, probe or reverse-engineer the service;
 - try to make Carbon ignore its instructions, or use it for anything other than your own food, drink, training and related questions;
@@ -48,6 +48,8 @@ Pro is sold monthly or yearly through the App Store or Google Play and charged t
 ## 8. Your content and data
 
 You own what you log. You give us a limited licence to process it (including sending it to our AI provider with your permission) only to run CarbonOS for you, as our [Privacy Policy](../privacy/) explains. Most of your data lives on your phone: if you lose or delete it and have no backup or export, **we cannot recover it**. Backup is a convenience, not a guarantee. Keep your own export of anything you cannot lose.
+
+**Share cards.** CarbonOS can turn parts of your log into a picture (a week, a day, a lift, a streak) with a caption, for you to post or send. Making one is your choice, and so is whether, where and to whom you share it. A card can show food and exercise names, counts and times from your log; check it before you share it, because everyone you share it with can see it. You are responsible for what you post and for following the rules of the app or site you post it on. Do not post another person's personal information. The titles and captions are light-hearted, written by the app or by AI, and can be wrong or odd: they are not facts, not advice and not a measure of your health, and we are not responsible for how others react, or for what an app or site you share to does with the picture. The CarbonOS name and logo on a card remain ours: you may share the card as it is, but not alter them or suggest we endorse you. Once you share a card, we cannot take it back.
 
 ## 9. Beta versions and availability
 

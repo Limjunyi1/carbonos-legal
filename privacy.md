@@ -4,7 +4,7 @@ permalink: /privacy/
 ---
 # CarbonOS Privacy Policy
 
-*Effective 24 October 2026 · [Bahasa Malaysia](../privacy-ms/) · [Terms of Use](../terms/)*
+*Effective 25 October 2026 · [Bahasa Malaysia](../privacy-ms/) · [Terms of Use](../terms/)*
 
 CarbonOS keeps your log on your phone. Our servers hold your account, your plan and how much of your allowance you have used, plus a copy of your log only if you turn on Backup. We never sell your data, show ads or track you across other apps.
 
@@ -21,6 +21,7 @@ What you log is stored on your device, in the app's database and in a folder of 
 - Workouts and weigh-ins
 - Your profile for targets (sex, birth year, height, weight, activity, goal) and your targets
 - Your conversation with Carbon, meal plans and weekly reviews
+- How many share cards you have used this month, and the captions you posted lately (so the next one is different)
 - Steps and active energy read from Apple Health or Health Connect, if you connect it (shown, never saved)
 
 Unless you turn on Backup, we cannot see, back up or recover this data. Your phone's own backup (iCloud or Google) may include the app's database, under that provider's terms; it never includes Apple Health or Health Connect data, because CarbonOS does not save it.
@@ -33,6 +34,7 @@ Unless you turn on Backup, we cannot see, back up or recover this data. Your pho
 | Your plan (Free or Pro) and renewal date | Unlocking Pro | Contract | Until you delete your account |
 | How many scans and messages you used each day and week | Fair-use limits | Contract | Until you delete your account |
 | A copy of your log (only if you turn on Backup; no photos, no health-app data) | Restoring on a new phone | Your consent | Until you turn Backup off or delete your account |
+| The request for a share card's caption: counts and short names, never what you typed (see "Share cards" below) | Writing the caption, and a daily limit | Your consent | Not saved; only a short-lived count in memory for the daily limit |
 | Operational logs: time, IP address, which feature, response time and sizes; never what you said | Security and keeping the service running | Legitimate interests | Up to 30 days |
 
 ## When you ask Carbon
@@ -46,6 +48,12 @@ A request to Carbon contains what you typed or your meal photos, plus the contex
 - Apple Health and Health Connect data, your email, your vault files and photos you did not scan are never sent to the AI.
 
 What you log can reveal health information. We treat it as sensitive and send it to the AI only with your explicit permission.
+
+## Share cards
+
+You can turn your week, a day, a lift, a streak or other summaries into a picture to post or send. The picture is drawn on your phone from your own log and handed to your phone's share sheet. CarbonOS does not upload it or keep a copy: it goes only where you choose to send it, and from then on that app or person handles it under their own terms. A card can show things from your log, such as food and exercise names, counts, times of day and streaks. It never shows your weight, a body image, calories against a target, or your photos. Check a card before you post it: anyone you share it with can see everything on it.
+
+The caption on a card can be written by the AI. If you have allowed the AI, the app sends our server a short summary of the card: a title, the weekday, counts (for example days logged, meals, workouts, sets, a streak), up to a few food, exercise and muscle names, and the captions you were shown recently so a new one is different. Not your photos, your messages, your weight, your calories or any health-app data. It is handled like a request to Carbon: our server does not save it, our AI provider (BytePlus ModelArk) writes the caption on our instructions, and we limit how many captions you can ask for each day. If you have not allowed the AI, or you are offline, captions come from lines written into the app and nothing is sent.
 
 ## Barcode lookups
 
