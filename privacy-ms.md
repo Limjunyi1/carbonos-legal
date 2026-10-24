@@ -81,7 +81,7 @@ Data anda mungkin diproses di luar Malaysia. Kami memindahkannya hanya ke negara
 ## Cara kami melindunginya
 
 - Semua data dihantar secara tersulit (HTTPS). Token log masuk anda disimpan dalam Keychain iPhone atau Keystore Android.
-- Sandaran anda disulitkan semasa disimpan dan hanya boleh dibaca oleh akaun anda.
+- Sandaran anda disulitkan semasa disimpan dan dilindungi oleh peraturan akses supaya pengguna lain tidak dapat membacanya. Ia tidak disulitkan hujung ke hujung, jadi kami secara teknikal boleh mengaksesnya; kami tidak berbuat demikian, kecuali untuk menjalankan perkhidmatan atau jika undang-undang memerlukan.
 - Akses ke pelayan dihadkan kepada apa yang diperlukan untuk menjalankan perkhidmatan.
 - Jika pelanggaran data berkemungkinan menyebabkan kemudaratan yang ketara, kami memaklumkan Pesuruhjaya Perlindungan Data Peribadi dalam tempoh 72 jam dan memaklumkan anda tanpa kelewatan yang tidak wajar.
 

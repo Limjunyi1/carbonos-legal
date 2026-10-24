@@ -78,7 +78,7 @@ Your data may be processed outside Malaysia. We transfer it only to countries wi
 ## How we protect it
 
 - Everything travels encrypted (HTTPS). Your sign-in token is kept in the iPhone Keychain or Android Keystore.
-- Your backup is encrypted at rest and readable only by your account.
+- Your backup is encrypted at rest and protected by access rules so that other users cannot read it. It is not end-to-end encrypted, so we could technically access it; we do not, except to keep the service running or where the law requires.
 - Access to our servers is limited to what running the service needs.
 - If a breach is likely to cause significant harm, we notify the Personal Data Protection Commissioner within 72 hours and you without undue delay.
 
