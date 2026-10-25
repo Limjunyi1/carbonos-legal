@@ -66,7 +66,7 @@ If you connect them, CarbonOS reads only your steps and active energy, to show h
 
 ## Reminders
 
-Reminders are scheduled by your phone from your own log. No push server or device token is involved. They never show your weight or calorie numbers. Turn each kind off in Settings → Reminders.
+Reminders are worked out and scheduled by your phone from your own log, so no push server or device token is involved and nothing about them is sent to us. They can mention a food you often log, your streak, the day of the week, or (in your first days, or if you have been away) a short tip or a gentle nudge. Away for a while, you get at most three nudges and then none until you return. They never show your weight or calorie numbers, and a reply you type into a reminder stays on your phone until you send it. Turn each kind off in Settings → Reminders, or all of them in your phone's settings.
 
 ## Who processes it
 

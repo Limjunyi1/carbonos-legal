@@ -69,7 +69,7 @@ Jika anda menyambungkannya, CarbonOS hanya membaca langkah dan tenaga aktif anda
 
 ## Peringatan
 
-Peringatan dijadualkan oleh telefon anda berdasarkan log anda sendiri. Tiada pelayan push atau token peranti terlibat. Peringatan tidak sekali-kali memaparkan berat badan atau angka kalori anda. Matikan setiap jenis di Tetapan → Peringatan.
+Peringatan dikira dan dijadualkan oleh telefon anda berdasarkan log anda sendiri, jadi tiada pelayan push atau token peranti terlibat dan tiada apa-apa tentangnya dihantar kepada kami. Ia boleh menyebut makanan yang kerap anda log, rentetan log anda, hari dalam minggu, atau (pada hari-hari pertama, atau jika anda sudah lama tidak menggunakannya) petua ringkas atau peringatan lembut. Jika anda tiada untuk seketika, anda menerima paling banyak tiga peringatan dan selepas itu tiada sehingga anda kembali. Peringatan tidak sekali-kali memaparkan berat badan atau angka kalori anda, dan balasan yang anda taip dalam peringatan kekal di telefon anda sehingga anda menghantarnya. Matikan setiap jenis di Tetapan → Peringatan, atau semuanya dalam tetapan telefon anda.
 
 ## Siapa yang memproses data
 
