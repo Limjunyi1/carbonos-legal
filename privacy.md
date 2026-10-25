@@ -32,7 +32,8 @@ Unless you turn on Backup, we cannot see, back up or recover this data. Your pho
 | --- | --- | --- | --- |
 | Email address and password (stored hashed), or, if you use Sign in with Apple, your Apple account identifier and the email Apple gives us (which may be a private relay address) | Signing in, password-reset emails | Contract | Until you delete your account |
 | Your plan (Free or Pro) and renewal date | Unlocking Pro | Contract | Until you delete your account |
-| How many scans and messages you used each day and week | Fair-use limits | Contract | Until you delete your account |
+| How many scans, messages and captions you used each day and week, and how many requests you made in the last hour or day | Fair-use limits | Contract | Until you delete your account (the short-term counters are cleared after about 3 days) |
+| A one-way scrambled (hashed) form of your network address, saved the first time an account uses Carbon's AI, and whether the email address is a throwaway one (the email itself is not kept for this) | Stopping mass sign-ups and misuse of the free tier | Legitimate interests | The scrambled value is cleared after 30 days; it cannot be turned back into your address |
 | A copy of your log (only if you turn on Backup; no photos, no health-app data) | Restoring on a new phone | Your consent | Until you turn Backup off or delete your account |
 | The request for a share card's caption: counts and short names, never what you typed (see "Share cards" below) | Writing the caption, and a daily limit | Your consent | Not saved; only a short-lived count in memory for the daily limit |
 | Operational logs: time, IP address, which feature, response time and sizes; never what you said | Security and keeping the service running | Legitimate interests | Up to 30 days |

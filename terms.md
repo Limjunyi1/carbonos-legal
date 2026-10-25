@@ -4,7 +4,7 @@ permalink: /terms/
 ---
 # CarbonOS Terms of Use
 
-*Effective 25 October 2026 (version 2026-10-25) · [Privacy Policy](../privacy/)*
+*Effective 25 October 2026 (version 2026-10-25.2) · [Privacy Policy](../privacy/)*
 
 Please read these terms carefully. By creating an account or using CarbonOS you confirm that you have read them, that you agree to them, and that you are 18 or over. If you do not agree, do not use CarbonOS.
 
@@ -39,6 +39,7 @@ Free includes 40 messages to Carbon a day and 5 photo scans a week. Pro includes
 
 - try to get around limits, or attack, overload, probe or reverse-engineer the service;
 - try to make Carbon ignore its instructions, or use it for anything other than your own food, drink, training and related questions;
+- create accounts in bulk, or with throwaway email addresses, to get around limits (we may refuse AI features to such accounts, and may limit how many new accounts one network can add in a day);
 - use someone else's account, or use the service in a way that breaks the law.
 
 ## 7. Pro subscriptions
@@ -53,7 +54,7 @@ You own what you log. You give us a limited licence to process it (including sen
 
 ## 9. Beta versions and availability
 
-CarbonOS may be offered as a beta (for example through TestFlight). Beta software can have bugs, change, or be withdrawn, and data may be lost. The service may be interrupted, limited or changed at any time, including when a provider we rely on has an outage. We do not promise it will always be available or error-free.
+CarbonOS may be offered as a beta (for example through TestFlight). Beta software can have bugs, change, or be withdrawn, and data may be lost. The service may be interrupted, limited or changed at any time, and we may require you to update to the latest version of the app to keep using it, including when a provider we rely on has an outage. We do not promise it will always be available or error-free.
 
 ## 10. Our rights
 
