@@ -44,6 +44,7 @@ Carbon's answers are made by an AI model. The app asks your permission before it
 
 A request to Carbon contains what you typed or your meal photos, plus the context needed to answer: that day's meals, workouts and weigh-in, recent daily totals, your targets, foods you log often, and the day's recent chat. It goes to our server and to our AI provider, which generates the answer.
 
+- A photo scan also carries two weak hints to help tell look-alike foods apart: your phone's region setting (a two-letter country code such as MY, from its language and region settings) and the names of the foods you log most. They are sent only with a scan and used only for that scan.
 - Our server does not save requests or answers.
 - Our AI provider is BytePlus ModelArk, which acts as our data processor. [Its data-processing terms](https://docs.byteplus.com/en/docs/ModelArk/BytePlus_ModelArk_Data_Processing) say it handles customer data only on our instructions and does not use it for its own model training without our authorization, which we have not given. How long it handles a request while answering is set by those terms.
 - Apple Health and Health Connect data, your email, your vault files and photos you did not scan are never sent to the AI.

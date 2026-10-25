@@ -47,6 +47,7 @@ Jawapan Carbon dihasilkan oleh model AI. Aplikasi meminta kebenaran anda sebelum
 
 Permintaan kepada Carbon mengandungi apa yang anda taip atau foto makanan anda, serta konteks yang diperlukan untuk menjawab: makanan, senaman dan berat badan hari itu, jumlah harian terkini, sasaran anda, makanan yang kerap anda log, dan perbualan terkini hari itu. Ia dihantar ke pelayan kami dan kepada penyedia AI kami, yang menghasilkan jawapan.
 
+- Imbasan foto juga membawa dua petunjuk lemah untuk membezakan makanan yang serupa: tetapan wilayah telefon anda (kod negara dua huruf seperti MY, daripada tetapan bahasa dan wilayahnya) dan nama makanan yang paling kerap anda log. Ia hanya dihantar bersama imbasan dan hanya digunakan untuk imbasan itu.
 - Pelayan kami tidak menyimpan permintaan atau jawapan.
 - Penyedia AI kami ialah BytePlus ModelArk, yang bertindak sebagai pemproses data kami. [Terma pemprosesan datanya](https://docs.byteplus.com/en/docs/ModelArk/BytePlus_ModelArk_Data_Processing) menyatakan bahawa ia mengendalikan data pelanggan hanya mengikut arahan kami dan tidak menggunakannya untuk latihan model sendiri tanpa kebenaran kami, yang tidak kami berikan. Tempoh ia mengendalikan sesuatu permintaan semasa menjawab ditetapkan oleh terma tersebut.
 - Data Apple Health dan Health Connect, e-mel anda, fail vault anda dan foto yang tidak anda imbas tidak sekali-kali dihantar kepada AI.
