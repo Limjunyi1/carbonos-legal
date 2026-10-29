@@ -4,7 +4,7 @@ permalink: /terms/
 ---
 # CarbonOS Terms of Use
 
-*Effective 25 October 2026 (version 2026-10-25.2) · [Privacy Policy](../privacy/)*
+*Effective 29 October 2026 (version 2026-10-29.1) · [Privacy Policy](../privacy/)*
 
 Please read these terms carefully. By creating an account or using CarbonOS you confirm that you have read them, that you agree to them, and that you are 18 or over. If you do not agree, do not use CarbonOS.
 
@@ -23,7 +23,8 @@ CarbonOS is a food and training log with an AI coach called Carbon. It gives **g
 - It is **not medical advice**, diagnosis or treatment, and it is not a substitute for a doctor, dietitian, pharmacist or qualified trainer. Using it does not create a professional or patient relationship with anyone.
 - It is **not for emergencies**. If you think you have a medical emergency or are in danger, stop using the app and call your local emergency number (999 in Malaysia).
 - **Do not rely on it for allergies, intolerances, diabetes or insulin dosing, medication, pregnancy, an eating disorder, or any medical condition.** Always check the actual food label and ask your healthcare professional.
-- Calorie, nutrient, burn, target, weight-trend and muscle-map figures are estimates produced by formulas and AI. The safety limits built into the app (calorie floors, rate-of-loss caps) reduce risk but do not make a target right for your body.
+- Calorie, nutrient, burn, target, weight-trend and muscle-map figures are estimates produced by formulas and AI. For foods the app recognises, numbers come from a published food table; other foods are the AI's estimate, and the ranges shown reflect that doubt. The safety limits built into the app (calorie floors, rate-of-loss caps) reduce risk but do not make a target right for your body.
+- **Safety replies.** If a message looks like a crisis, an eating-disorder risk, a medical emergency or a person under 18, Carbon answers with a fixed message and does not use its AI. This is not a diagnosis and not emergency care. Carbon's AI replies are also checked automatically, and some are removed; these checks can miss things.
 
 ## 4. Health, diet and exercise are your responsibility
 
@@ -35,7 +36,7 @@ Carbon is an AI, including when it writes the caption on a share card, and can b
 
 ## 6. Using CarbonOS fairly
 
-Free includes 40 messages to Carbon a day and 5 photo scans a week. Pro includes 150 messages a day and up to 30 photo scans a day. Share cards (section 8): Free includes one card shared a month, Pro has no monthly limit, and the AI caption writer is limited per day (currently 6 on Free and 40 on Pro). We may also limit how fast you can send requests (currently 20 scans an hour) to stop abuse. You must not:
+Free includes 40 messages to Carbon a day and 5 photo scans a week. Pro includes 150 messages a day and up to 30 photo scans a day. Share cards (section 8): Free includes one card shared a month, Pro has no monthly limit, and the AI caption writer is limited per day (currently 6 on Free and 40 on Pro). We may also limit how fast you can send requests (currently 20 scans an hour) to stop abuse. If many people use the free plan on one day, we may pause free AI use until the next day; Pro is not affected. You must not:
 
 - try to get around limits, or attack, overload, probe or reverse-engineer the service;
 - try to make Carbon ignore its instructions, or use it for anything other than your own food, drink, training and related questions;
@@ -44,11 +45,11 @@ Free includes 40 messages to Carbon a day and 5 photo scans a week. Pro includes
 
 ## 7. Pro subscriptions
 
-Pro is sold monthly or yearly through the App Store or Google Play and charged to that account. It renews automatically unless you cancel at least 24 hours before the end of the period. A free trial, if offered, becomes a paid subscription unless cancelled before it ends. Manage or cancel in your store account settings; refunds are handled by Apple or Google under their policies. We will tell you before a price change applies to you.
+Pro is sold monthly or yearly through the App Store or Google Play and charged to that account. It renews automatically unless you cancel at least 24 hours before the end of the period. A free trial, if offered, becomes a paid subscription unless cancelled before it ends. Manage or cancel in your store account settings; refunds are handled by Apple or Google under their policies. Deleting your CarbonOS account does not cancel your subscription. We will tell you before a price change applies to you.
 
 ## 8. Your content and data
 
-You own what you log. You give us a limited licence to process it (including sending it to our AI provider with your permission) only to run CarbonOS for you, as our [Privacy Policy](../privacy/) explains. Most of your data lives on your phone: if you lose or delete it and have no backup or export, **we cannot recover it**. Backup is a convenience, not a guarantee. Keep your own export of anything you cannot lose.
+You own what you log. You give us a limited licence to process it (including sending it to our AI provider with your permission) only to run CarbonOS for you, as our [Privacy Policy](../privacy/) explains. Most of your data lives on your phone: if you lose or delete it and have no backup or export, **we cannot recover it**. Backup is optional, tied to your account and not end-to-end encrypted, and it is a convenience, not a guarantee. It is limited in size: if your log is too big, the oldest chat messages are left out first, and if it still does not fit, the backup does not run. We are not responsible for data lost because backup was off, failed or was too large to hold everything. Keep your own export of anything you cannot lose.
 
 **Share cards.** CarbonOS can turn parts of your log into a picture (a week, a day, a lift, a streak) with a caption, for you to post or send. Making one is your choice, and so is whether, where and to whom you share it. A card can show food and exercise names, counts and times from your log; check it before you share it, because everyone you share it with can see it. You are responsible for what you post and for following the rules of the app or site you post it on. Do not post another person's personal information. The titles and captions are light-hearted, written by the app or by AI, and can be wrong or odd: they are not facts, not advice and not a measure of your health, and we are not responsible for how others react, or for what an app or site you share to does with the picture. The CarbonOS name and logo on a card remain ours: you may share the card as it is, but not alter them or suggest we endorse you. Once you share a card, we cannot take it back.
 
