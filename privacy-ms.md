@@ -5,7 +5,7 @@ lang: ms
 ---
 # Dasar Privasi CarbonOS
 
-*Berkuat kuasa 3 November 2026 · [English](../privacy/) · [Terma Penggunaan](../terms/) (dalam bahasa Inggeris)*
+*Berkuat kuasa 4 November 2026 · [English](../privacy/) · [Terma Penggunaan](../terms/) (dalam bahasa Inggeris)*
 
 CarbonOS menyimpan log anda di telefon anda. Pelayan kami hanya menyimpan akaun anda, pelan anda dan jumlah peruntukan yang telah anda gunakan, serta salinan log anda hanya jika anda menghidupkan Sandaran. Kami tidak sekali-kali menjual data anda, memaparkan iklan atau menjejaki anda merentas aplikasi lain.
 
@@ -24,10 +24,13 @@ Apa yang anda log disimpan di peranti anda, dalam pangkalan data aplikasi dan da
 - Senaman dan timbang berat badan
 - Profil anda untuk sasaran (jantina, tahun lahir, tinggi, berat, tahap aktiviti, matlamat) dan sasaran anda
 - Perbualan anda dengan Carbon, pelan makan dan ulasan mingguan
+- Nota yang anda berikan kepada Carbon tentang diri anda, jika ada ("Carbon knows you" di Tetapan): cara anda makan (contohnya halal atau vegetarian), alahan atau makanan yang tidak boleh anda ambil, makanan yang anda tidak suka, bila anda bersenam, dan apa-apa lagi yang anda tulis. Sebahagiannya boleh mendedahkan agama atau kesihatan anda. Ubah atau kosongkan pada bila-bila masa di Tetapan
 - Bilangan kad kongsi yang telah anda gunakan bulan ini, dan kapsyen yang anda siarkan baru-baru ini (supaya yang seterusnya berbeza)
 - Langkah dan tenaga aktif daripada Apple Health atau Health Connect, jika anda menyambungkannya (dipaparkan, tidak disimpan)
-- Pilihan dan tanda kecil: unit anda, sama ada haptik (getaran) dihidupkan, mod Ramadan, mesej sambutan dan pencapaian yang telah anda lihat, pilihan peringatan, eksperimen mingguan anda, dan makanan yang diisi sebagai anggaran selepas jurang hari tanpa log (anggaran ditandakan dan tidak sekali-kali dikira dalam statistik anda)
+- Pilihan dan tanda kecil: unit anda, sama ada haptik (getaran) dihidupkan, sama ada senaman ditambah pada sasaran harian anda, sama ada Skrin Kunci menunjukkan makanan yang sedang anda makan, mod Ramadan, mesej sambutan dan pencapaian yang telah anda lihat, pilihan peringatan, eksperimen mingguan anda, dan makanan yang diisi sebagai anggaran selepas jurang hari tanpa log (anggaran ditandakan dan tidak sekali-kali dikira dalam statistik anda)
 - Tarikh terakhir Carbon memberi jawapan keselamatan tentang pemakanan, mencederakan diri atau umur (lihat "Semakan keselamatan"): hanya tarikh, tidak sekali-kali apa yang anda tulis. Ia kekal di telefon ini, tidak disandarkan atau dihantar, dan selama 180 hari ia menghalang eksperimen mingguan daripada mencadangkan anda mengurangkan apa-apa
+
+Jika anda menambah widget CarbonOS, Skrin Utama atau Skrin Kunci anda menunjukkan baki sasaran hari ini, dan selepas foto makanan Skrin Kunci anda boleh menunjukkan bila anda mula makan, dengan butang untuk kembali ke aplikasi (Live Activity). Telefon anda melukis kedua-duanya daripada log anda; tiada apa-apa tentangnya dihantar ke mana-mana. Sesiapa yang dapat melihat skrin anda dapat melihatnya: buang widget itu, atau matikan Skrin Kunci di Tetapan atau dalam tetapan telefon anda.
 
 Melainkan anda menghidupkan Sandaran, kami tidak dapat melihat, membuat sandaran atau memulihkan data ini. Sandaran telefon anda sendiri (iCloud atau Google) mungkin termasuk pangkalan data aplikasi, tertakluk kepada terma penyedia tersebut; ia tidak termasuk data Apple Health atau Health Connect, kerana CarbonOS tidak menyimpannya.
 
@@ -41,6 +44,7 @@ Melainkan anda menghidupkan Sandaran, kami tidak dapat melihat, membuat sandaran
 | Bentuk alamat rangkaian anda yang telah dikelirukan secara sehala (di-hash), disimpan kali pertama akaun menggunakan AI Carbon, dan sama ada alamat e-mel itu e-mel pakai buang (e-mel itu sendiri tidak disimpan untuk ini) | Menghalang pendaftaran secara besar-besaran dan penyalahgunaan peringkat percuma | Kepentingan sah | Nilai yang dikelirukan itu dibersihkan selepas 30 hari; ia tidak boleh dipulihkan menjadi alamat anda |
 | Salinan log anda (hanya jika Sandaran dihidupkan; tanpa foto, tanpa data aplikasi kesihatan) | Memulihkan di telefon baharu | Persetujuan anda | Sehingga anda mematikan Sandaran atau memadam akaun |
 | Permintaan untuk kapsyen kad kongsi: bilangan dan nama pendek, tidak sekali-kali apa yang anda taip (lihat "Kad kongsi" di bawah) | Menulis kapsyen, dan had harian | Persetujuan anda | Tidak disimpan; hanya kiraan sementara dalam memori untuk had harian |
+| Pembetulan kepada makanan yang dipadankan daripada jadual makanan kami, hanya jika anda menghidupkan "Help improve the food table" di Tetapan: entri jadual, nama makanan, saiz hidangan dan kalori sebelum dan selepas, jenis log, rantau telefon anda dan nombor binaan aplikasi. Tiada ID akaun, tiada butiran hidangan, tiada waktu dalam hari | Memperbaiki jadual makanan; kami membacanya sendiri sebelum mengubah apa-apa | Persetujuan anda | Sehingga 12 bulan |
 | Nombor versi dan nombor binaan aplikasi, serta ID permintaan rawak sekali guna (tidak dipautkan kepada anda atau peranti anda; percubaan semula mesej yang sama menggunakan semula ID itu) bersama setiap permintaan | Meminta versi yang sangat lama supaya mengemas kini, dan membezakan percubaan semula daripada mesej kedua | Kepentingan sah | Tidak disimpan oleh kami selain dalam log operasi di bawah |
 | Log operasi: masa, alamat IP, ciri yang digunakan, masa respons dan saiz; tidak sekali-kali apa yang anda katakan | Keselamatan dan menjalankan perkhidmatan | Kepentingan sah | Sehingga 30 hari |
 
@@ -48,15 +52,16 @@ Melainkan anda menghidupkan Sandaran, kami tidak dapat melihat, membuat sandaran
 
 Jawapan Carbon dihasilkan oleh model AI. Aplikasi meminta kebenaran anda sebelum menghantar apa-apa kepada AI, dan anda boleh menariknya balik pada bila-bila masa di Tetapan → Privasi. Log secara manual dan imbasan kod bar berfungsi tanpanya.
 
-Permintaan kepada Carbon mengandungi apa yang anda taip atau foto makanan anda, serta konteks yang diperlukan untuk menjawab: makanan, senaman dan berat badan hari itu, jumlah harian terkini, sasaran anda, makanan yang kerap anda log, dan perbualan terkini hari itu. Ia dihantar ke pelayan kami dan kepada penyedia AI kami, yang menghasilkan jawapan.
+Permintaan kepada Carbon mengandungi apa yang anda taip atau foto makanan anda, serta konteks yang diperlukan untuk menjawab: makanan, senaman dan berat badan hari itu, jumlah harian terkini, sasaran anda, makanan yang kerap anda log, perbualan terkini hari itu, dan nota anda untuk Carbon jika ada. Ia dihantar ke pelayan kami dan kepada penyedia AI kami, yang menghasilkan jawapan.
 
 - Imbasan foto juga membawa dua petunjuk lemah untuk membezakan makanan yang serupa: tetapan wilayah telefon anda (kod negara dua huruf seperti MY, daripada tetapan bahasa dan wilayahnya) dan nama makanan yang paling kerap anda log. Ia hanya dihantar bersama imbasan dan hanya digunakan untuk imbasan itu.
+- Nota anda untuk Carbon dihantar bersama setiap mesej supaya cadangan dan nasihat sesuai dengan anda, contohnya meninggalkan makanan yang tidak sesuai dengan diet atau alahan anda. Ia digunakan hanya untuk menjawab mesej itu. Carbon tidak dapat melihat kandungan sesuatu hidangan, jadi ia tidak sekali-kali memberitahu anda bahawa sesuatu makanan selamat untuk alahan anda: sentiasa semak label dan bertanya.
 - Pelayan kami tidak menyimpan permintaan atau jawapan. Ia menyemaknya: lihat "Semakan keselamatan" di bawah.
 - Foto dikecilkan di telefon anda kepada JPEG paling besar 1024 piksel sebelum meninggalkannya. Pelayan kami hanya menerima foto JPEG, PNG atau WebP sehingga 4 MB dan 4096 piksel sebelah, dan tidak menyimpannya.
 - Penyedia AI kami ialah BytePlus ModelArk, yang bertindak sebagai pemproses data kami. [Terma pemprosesan datanya](https://docs.byteplus.com/en/docs/ModelArk/BytePlus_ModelArk_Data_Processing) menyatakan bahawa ia mengendalikan data pelanggan hanya mengikut arahan kami dan tidak menggunakannya untuk latihan model sendiri tanpa kebenaran kami, yang tidak kami berikan. Tempoh ia mengendalikan sesuatu permintaan semasa menjawab ditetapkan oleh terma tersebut. Terma itu juga membenarkan BytePlus menyimpan, untuk tujuan keselamatan kandungan, permintaan yang ditanda oleh penapis keselamatannya, bagi tempoh terhad yang ditetapkannya.
 - Data Apple Health dan Health Connect, e-mel anda, fail vault anda dan foto yang tidak anda imbas tidak sekali-kali dihantar kepada AI.
 
-Apa yang anda log boleh mendedahkan maklumat kesihatan. Kami menganggapnya sebagai data peribadi sensitif dan menghantarnya kepada AI hanya dengan kebenaran nyata anda.
+Apa yang anda log boleh mendedahkan maklumat kesihatan, dan nota anda boleh mendedahkan agama atau kesihatan anda. Kami menganggap semuanya sebagai data peribadi sensitif dan menghantarnya kepada AI hanya dengan kebenaran nyata anda.
 
 ## Semakan keselamatan
 
@@ -64,7 +69,7 @@ Sesetengah mesej, contohnya tentang mencederakan diri, gangguan makan, diet mela
 
 ## Sandaran (pilihan, dimatikan secara lalai)
 
-Sandaran dimatikan sehingga anda menghidupkannya di Tetapan, dan ia milik akaun yang menghidupkannya: akaun lain pada telefon yang sama tidak sekali-kali mempunyai datanya disalin kepada anda. Apabila dihidupkan, salinan makanan, mesej sembang, senaman, timbangan berat, makanan kod bar yang disimpan, sasaran, butiran badan (jantina, tahun lahir, tinggi, berat, aktiviti, matlamat), unit dan pilihan kecil yang disenaraikan di atas disimpan dalam akaun CarbonOS anda. Tidak sekali-kali disalin: tarikh jawapan keselamatan, foto, apa-apa daripada Apple Health atau Health Connect, kebenaran AI anda, dan kebenaran telefon anda. Ia tidak disulitkan hujung ke hujung (lihat "Cara kami melindunginya"). Sandaran dihadkan kepada kira-kira 8 MB: jika lebih besar, mesej sembang yang paling lama ditinggalkan dahulu, dan aplikasi memberitahu anda berapa banyak. Mematikan Sandaran memadam salinan di pelayan kami. Log keluar atau memadam akaun juga mematikannya di telefon itu. Memulihkan menggantikan log di telefon anda dengan sandaran.
+Sandaran dimatikan sehingga anda menghidupkannya di Tetapan, dan ia milik akaun yang menghidupkannya: akaun lain pada telefon yang sama tidak sekali-kali mempunyai datanya disalin kepada anda. Apabila dihidupkan, salinan makanan, mesej sembang, senaman, timbangan berat, makanan kod bar yang disimpan, sasaran, butiran badan (jantina, tahun lahir, tinggi, berat, aktiviti, matlamat), nota anda untuk Carbon, unit dan pilihan kecil yang disenaraikan di atas disimpan dalam akaun CarbonOS anda. Tidak sekali-kali disalin: tarikh jawapan keselamatan, foto, apa-apa daripada Apple Health atau Health Connect, kebenaran AI anda, pilihan anda untuk berkongsi pembetulan jadual makanan dan pembetulan yang masih menunggu, makanan semasa di Skrin Kunci, dan kebenaran telefon anda. Ia tidak disulitkan hujung ke hujung (lihat "Cara kami melindunginya"). Sandaran dihadkan kepada kira-kira 8 MB: jika lebih besar, mesej sembang yang paling lama ditinggalkan dahulu, dan aplikasi memberitahu anda berapa banyak. Mematikan Sandaran memadam salinan di pelayan kami. Log keluar atau memadam akaun juga mematikannya di telefon itu. Memulihkan menggantikan log di telefon anda dengan sandaran.
 
 ## Kad kongsi
 
@@ -90,7 +95,7 @@ Syarikat-syarikat ini mengendalikan data bagi pihak kami, di bawah terma yang me
 
 | Syarikat | Apa yang dikendalikan | Lokasi |
 | --- | --- | --- |
-| Supabase | Akaun, pelan, bilangan penggunaan, sandaran, pengecam log masuk dan Sign in with Apple, serta e-mel log masuk anda | Singapura |
+| Supabase | Akaun, pelan, bilangan penggunaan, sandaran, pengecam log masuk dan Sign in with Apple, e-mel log masuk anda, serta pembetulan jadual makanan yang anda pilih untuk dihantar (tidak dipautkan kepada akaun anda) | Singapura |
 | BytePlus ModelArk | Setiap permintaan kepada Carbon semasa ia dijawab | Pusat data BytePlus, termasuk Malaysia dan Indonesia |
 | Fly.io | Pelayan kami, yang menyalurkan permintaan | Singapura |
 | RevenueCat | Status langganan, dipautkan kepada id akaun anda | Amerika Syarikat |
@@ -112,7 +117,7 @@ Data anda mungkin diproses di luar Malaysia. Kami memindahkannya hanya ke negara
 - **Akses dan salinan:** Tetapan → Eksport log saya memberi anda semua yang ada di telefon anda sebagai fail biasa. E-mel kami untuk mendapatkan apa yang disimpan di pelayan kami, dalam format mudah alih.
 - **Pembetulan:** edit apa-apa dalam aplikasi, atau minta kami membetulkan data akaun.
 - **Padam akaun anda:** Tetapan → Padam akaun serta-merta membuang akaun, pelan, bilangan penggunaan dan sandaran anda dari pelayan kami; log operasi luput dalam tempoh 30 hari. Selepas itu kami juga cuba, sedaya upaya, membatalkan token Sign in with Apple yang kami pegang untuk anda (aplikasi meminta kod sekali guna yang baharu daripada Apple untuk ini dan tidak menyimpannya) dan memadam rekod pelanggan RevenueCat anda. Jika salah satu tidak dapat dihubungi pada ketika itu, e-mel kami dan kami akan menyelesaikannya. Apa yang ada di telefon anda kekal sehingga anda memadam aplikasi. Memadam akaun tidak membatalkan langganan Pro: batalkannya dalam tetapan App Store atau Google Play anda.
-- **Tarik balik persetujuan:** matikan AI Carbon, Sandaran (ini memadam salinan), akses Kesihatan atau Peringatan di Tetapan. Ini tidak menjejaskan apa yang telah diproses sebelumnya.
+- **Tarik balik persetujuan:** matikan AI Carbon, Sandaran (ini memadam salinan), akses Kesihatan, Peringatan atau "Help improve the food table" di Tetapan. Mematikan pembetulan jadual makanan membuang apa-apa yang masih menunggu di telefon anda; pembetulan yang telah dihantar tidak dipautkan kepada anda, jadi kami tidak dapat mengenal pasti pembetulan anda untuk memadamnya. Ini tidak menjejaskan apa yang telah diproses sebelumnya.
 - **Aduan:** kepada [Pesuruhjaya Perlindungan Data Peribadi Malaysia](https://www.pdp.gov.my) atau pihak berkuasa perlindungan data di tempat anda tinggal.
 
 Kami menjawab permintaan dalam tempoh 21 hari. E-mel carbonos.support@gmail.com.
