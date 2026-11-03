@@ -5,7 +5,7 @@ lang: ms
 ---
 # Dasar Privasi CarbonOS
 
-*Berkuat kuasa 31 Oktober 2026 · [English](../privacy/) · [Terma Penggunaan](../terms/) (dalam bahasa Inggeris)*
+*Berkuat kuasa 3 November 2026 · [English](../privacy/) · [Terma Penggunaan](../terms/) (dalam bahasa Inggeris)*
 
 CarbonOS menyimpan log anda di telefon anda. Pelayan kami hanya menyimpan akaun anda, pelan anda dan jumlah peruntukan yang telah anda gunakan, serta salinan log anda hanya jika anda menghidupkan Sandaran. Kami tidak sekali-kali menjual data anda, memaparkan iklan atau menjejaki anda merentas aplikasi lain.
 
@@ -41,7 +41,7 @@ Melainkan anda menghidupkan Sandaran, kami tidak dapat melihat, membuat sandaran
 | Bentuk alamat rangkaian anda yang telah dikelirukan secara sehala (di-hash), disimpan kali pertama akaun menggunakan AI Carbon, dan sama ada alamat e-mel itu e-mel pakai buang (e-mel itu sendiri tidak disimpan untuk ini) | Menghalang pendaftaran secara besar-besaran dan penyalahgunaan peringkat percuma | Kepentingan sah | Nilai yang dikelirukan itu dibersihkan selepas 30 hari; ia tidak boleh dipulihkan menjadi alamat anda |
 | Salinan log anda (hanya jika Sandaran dihidupkan; tanpa foto, tanpa data aplikasi kesihatan) | Memulihkan di telefon baharu | Persetujuan anda | Sehingga anda mematikan Sandaran atau memadam akaun |
 | Permintaan untuk kapsyen kad kongsi: bilangan dan nama pendek, tidak sekali-kali apa yang anda taip (lihat "Kad kongsi" di bawah) | Menulis kapsyen, dan had harian | Persetujuan anda | Tidak disimpan; hanya kiraan sementara dalam memori untuk had harian |
-| Nombor versi aplikasi dan ID permintaan rawak sekali guna (tidak dipautkan kepada anda atau peranti anda; percubaan semula mesej yang sama menggunakan semula ID itu) bersama setiap permintaan | Meminta versi yang sangat lama supaya mengemas kini, dan membezakan percubaan semula daripada mesej kedua | Kepentingan sah | Tidak disimpan oleh kami selain dalam log operasi di bawah |
+| Nombor versi dan nombor binaan aplikasi, serta ID permintaan rawak sekali guna (tidak dipautkan kepada anda atau peranti anda; percubaan semula mesej yang sama menggunakan semula ID itu) bersama setiap permintaan | Meminta versi yang sangat lama supaya mengemas kini, dan membezakan percubaan semula daripada mesej kedua | Kepentingan sah | Tidak disimpan oleh kami selain dalam log operasi di bawah |
 | Log operasi: masa, alamat IP, ciri yang digunakan, masa respons dan saiz; tidak sekali-kali apa yang anda katakan | Keselamatan dan menjalankan perkhidmatan | Kepentingan sah | Sehingga 30 hari |
 
 ## Apabila anda bertanya kepada Carbon

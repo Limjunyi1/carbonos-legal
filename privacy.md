@@ -4,7 +4,7 @@ permalink: /privacy/
 ---
 # CarbonOS Privacy Policy
 
-*Effective 31 October 2026 · [Bahasa Malaysia](../privacy-ms/) · [Terms of Use](../terms/)*
+*Effective 3 November 2026 · [Bahasa Malaysia](../privacy-ms/) · [Terms of Use](../terms/)*
 
 CarbonOS keeps your log on your phone. Our servers hold your account, your plan and how much of your allowance you have used, plus a copy of your log only if you turn on Backup. We never sell your data, show ads or track you across other apps.
 
@@ -38,7 +38,7 @@ Unless you turn on Backup, we cannot see, back up or recover this data. Your pho
 | A one-way scrambled (hashed) form of your network address, saved the first time an account uses Carbon's AI, and whether the email address is a throwaway one (the email itself is not kept for this) | Stopping mass sign-ups and misuse of the free tier | Legitimate interests | The scrambled value is cleared after 30 days; it cannot be turned back into your address |
 | A copy of your log (only if you turn on Backup; no photos, no health-app data) | Restoring on a new phone | Your consent | Until you turn Backup off or delete your account |
 | The request for a share card's caption: counts and short names, never what you typed (see "Share cards" below) | Writing the caption, and a daily limit | Your consent | Not saved; only a short-lived count in memory for the daily limit |
-| The app's version number and a random one-off request ID (not linked to you or your device; a retry of the same message reuses it) with each request | Asking very old versions to update, and telling a retry from a second message | Legitimate interests | Not saved by us beyond the operational logs below |
+| The app's version and build number and a random one-off request ID (not linked to you or your device; a retry of the same message reuses it) with each request | Asking very old versions to update, and telling a retry from a second message | Legitimate interests | Not saved by us beyond the operational logs below |
 | Operational logs: time, IP address, which feature, response time and sizes; never what you said | Security and keeping the service running | Legitimate interests | Up to 30 days |
 
 ## When you ask Carbon
