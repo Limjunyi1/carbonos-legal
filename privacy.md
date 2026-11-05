@@ -4,7 +4,7 @@ permalink: /privacy/
 ---
 # CarbonOS Privacy Policy
 
-*Effective 4 November 2026 · [Bahasa Malaysia](../privacy-ms/) · [Terms of Use](../terms/)*
+*Effective 6 November 2026 · [Bahasa Malaysia](../privacy-ms/) · [Terms of Use](../terms/)*
 
 CarbonOS keeps your log on your phone. Our servers hold your account, your plan and how much of your allowance you have used, plus a copy of your log only if you turn on Backup. We never sell your data, show ads or track you across other apps.
 
@@ -21,7 +21,7 @@ What you log is stored on your device, in the app's database and in a folder of 
 - Workouts and weigh-ins
 - Your profile for targets (sex, birth year, height, weight, activity, goal) and your targets
 - Your conversation with Carbon, meal plans and weekly reviews
-- Notes you give Carbon about yourself, if you add any ("Carbon knows you" in Settings): how you eat (for example halal or vegetarian), allergies or foods you can't have, foods you don't like, when you train, and anything else you write. Some of these can reveal your religion or health. Change or clear them any time in Settings
+- Notes you give Carbon about yourself, if you add any ("Carbon knows you" in Settings): how you eat (for example halal or vegetarian), allergies or foods you can't have, foods you don't like, when you train, anything else you write, and things Carbon offered to remember that you chose to keep (for example a race date or an injury to work around; nothing is kept unless you tap to keep it). Some of these can reveal your religion or health. Change, remove or clear them any time in Settings
 - How many share cards you have used this month, and the captions you posted lately (so the next one is different)
 - Steps and active energy read from Apple Health or Health Connect, if you connect it (shown, never saved)
 - Small choices and flags: your units, whether haptics (vibration) are on, whether workouts add to your daily target, whether the Lock Screen shows the meal you are eating, Ramadan mode, which welcome and milestone messages you have seen, your reminder choices, your weekly experiment, and meals you filled in as estimates after a gap (estimates are marked and never counted in your stats)
@@ -49,11 +49,15 @@ Unless you turn on Backup, we cannot see, back up or recover this data. Your pho
 
 Carbon's answers are made by an AI model. The app asks your permission before it sends anything to the AI, and you can withdraw it any time in Settings → Privacy. Logging by hand and barcode logging work without it.
 
-A request to Carbon contains what you typed or your meal photos, plus the context needed to answer: that day's meals, workouts and weigh-in, recent daily totals, your targets, foods you log often, the day's recent chat, and your notes for Carbon if you added any. It goes to our server and to our AI provider, which generates the answer.
+A request to Carbon contains what you typed or your meal photos, plus the context needed to answer: that day's meals, workouts and weigh-in, recent daily totals, your targets, foods you log often, the recent chat of that day and the few days before it, a summary of your log, and your notes for Carbon if you added any. It goes to our server and to our AI provider, which generates the answer.
+
+- The summary of your log is worked out on your phone. With Pro it covers up to the last 13 months: monthly and weekly averages of what you ate (calories and protein), how many workouts, sets, minutes and kilometres, your average weigh-in, the foods you have most and the last day you had each, your best lifts and the totals, longest and fastest of each cardio activity. On Free it is only this week's active minutes and strength days.
+- When you ask about an earlier day, Carbon asks your phone for that part of your log: the meals, workouts, weigh-ins or chat in the days your question is about, or when you last had a food. Your phone reads it and sends just that, for that question only. Free can look back 14 days, Pro further.
+- Carbon works through tools: it can record a meal, a workout or a weigh-in, fix one, suggest what to eat, propose new targets and offer to remember something you told it. Every change appears in your log, where you can undo or edit it; new targets and things to remember are only saved when you tap to keep them.
 
 - A photo scan also carries two weak hints to help tell look-alike foods apart: your phone's region setting (a two-letter country code such as MY, from its language and region settings) and the names of the foods you log most. They are sent only with a scan and used only for that scan.
 - Your notes for Carbon go with each message so that suggestions and advice fit you, for example leaving out foods your diet or allergies rule out. They are used only to answer that message. Carbon cannot see what is in a dish, so it never tells you a food is safe for an allergy: always check the label and ask.
-- Our server does not save requests or answers, with one exception: the answer to a photo scan (the foods and their numbers, never the photos) is held in the server's memory for up to 30 minutes, so that if your phone loses the connection while it waits, for example because you left the app, it can collect that answer when it is back instead of scanning again. We never write it to disk or to a database. Our server also checks requests and answers: see "Safety checks" below.
+- Our server does not save requests or answers, with two exceptions, both only in its memory: the answer to a photo scan (the foods and their numbers, never the photos) is held for up to 30 minutes, so that if your phone loses the connection while it waits, for example because you left the app, it can collect that answer when it is back instead of scanning again; and while Carbon is waiting for your phone to look something up, our server hands the conversation in progress to your phone encrypted so that only our server can read it, your phone sends it back with the answer within 3 minutes, and our server keeps only a random marker that it was used, for those 3 minutes. We never write either to disk or to a database. Our server also checks requests and answers: see "Safety checks" below.
 - Photos are shrunk on your phone to a JPEG of at most 1024 pixels before they leave it. Our server accepts only JPEG, PNG or WebP photos up to 4 MB and 4096 pixels on a side, and does not keep them.
 - Our AI provider is BytePlus ModelArk, which acts as our data processor. [Its data-processing terms](https://docs.byteplus.com/en/docs/ModelArk/BytePlus_ModelArk_Data_Processing) say it handles customer data only on our instructions and does not use it for its own model training without our authorization, which we have not given. How long it handles a request while answering is set by those terms. Those terms also let BytePlus keep, for content-safety purposes, requests that its safety filters flag, for a limited period it sets.
 - Apple Health and Health Connect data, your email, your vault files and photos you did not scan are never sent to the AI.
