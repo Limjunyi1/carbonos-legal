@@ -5,7 +5,7 @@ lang: ms
 ---
 # Dasar Privasi CarbonOS
 
-*Berkuat kuasa 6 November 2026 · [English](../privacy/) · [Terma Penggunaan](../terms/) (dalam bahasa Inggeris)*
+*Berkuat kuasa 10 November 2026 · [English](../privacy/) · [Terma Penggunaan](../terms/) (dalam bahasa Inggeris)*
 
 CarbonOS menyimpan log anda di telefon anda. Pelayan kami hanya menyimpan akaun anda, pelan anda dan jumlah peruntukan yang telah anda gunakan, serta salinan log anda hanya jika anda menghidupkan Sandaran. Kami tidak sekali-kali menjual data anda, memaparkan iklan atau menjejaki anda merentas aplikasi lain.
 
@@ -103,6 +103,7 @@ Syarikat-syarikat ini mengendalikan data bagi pihak kami, di bawah terma yang me
 | BytePlus ModelArk | Setiap permintaan kepada Carbon semasa ia dijawab | Pusat data BytePlus, termasuk Malaysia dan Indonesia |
 | Fly.io | Pelayan kami, yang menyalurkan permintaan | Singapura |
 | RevenueCat | Status langganan, dipautkan kepada id akaun anda | Amerika Syarikat |
+| Google (Gmail) | Penghantaran e-mel log masuk yang kami hantar kepada anda, seperti kod angka apabila anda menetapkan semula kata laluan: alamat e-mel anda dan mesej itu | Pusat data Google, yang mungkin terletak di luar Malaysia |
 | Apple dan Google | Pembayaran untuk Pro dan Sign in with Apple, di bawah dasar privasi mereka sendiri | Lokasi mereka sendiri |
 
 Jika kami menukar penyedia AI, kami mengemas kini jadual ini terlebih dahulu, dan meminta kebenaran anda semula jika apa yang dihantar berubah.

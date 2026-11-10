@@ -4,7 +4,7 @@ permalink: /privacy/
 ---
 # CarbonOS Privacy Policy
 
-*Effective 6 November 2026 · [Bahasa Malaysia](../privacy-ms/) · [Terms of Use](../terms/)*
+*Effective 10 November 2026 · [Bahasa Malaysia](../privacy-ms/) · [Terms of Use](../terms/)*
 
 CarbonOS keeps your log on your phone. Our servers hold your account, your plan and how much of your allowance you have used, plus a copy of your log only if you turn on Backup. We never sell your data, show ads or track you across other apps.
 
@@ -100,6 +100,7 @@ These companies handle data for us, under terms that limit them to providing Car
 | BytePlus ModelArk | Each request to Carbon while it is answered | BytePlus data centres, including Malaysia and Indonesia |
 | Fly.io | Our server, which passes requests through | Singapore |
 | RevenueCat | Subscription status, linked to your account id | United States |
+| Google (Gmail) | Delivering the emails we send you about signing in, such as the numeric code when you reset your password: your email address and the message | Google's data centres, which may be outside Malaysia |
 | Apple and Google | Payment for Pro, and Sign in with Apple, under their own privacy policies | Their own |
 
 If we change AI provider, we update this table first, and ask your permission again if what is sent changes.
