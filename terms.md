@@ -4,7 +4,7 @@ permalink: /terms/
 ---
 # CarbonOS Terms of Use
 
-*Effective 31 October 2026 (version 2026-10-31.1) · [Privacy Policy](../privacy/)*
+*Effective 14 November 2026 (version 2026-11-14.1) · [Privacy Policy](../privacy/)*
 
 Please read these terms carefully. By creating an account or using CarbonOS you confirm that you have read them, that you agree to them, and that you are 18 or over. If you do not agree, do not use CarbonOS.
 
@@ -25,6 +25,7 @@ CarbonOS is a food and training log with an AI coach called Carbon. It gives **g
 - **Do not rely on it for allergies, intolerances, diabetes or insulin dosing, medication, pregnancy, an eating disorder, or any medical condition.** Always check the actual food label and ask your healthcare professional.
 - Calorie, nutrient, burn, target, weight-trend and muscle-map figures are estimates produced by formulas and AI. For foods the app recognises, numbers come from a published food table; other foods are the AI's estimate, and the ranges shown reflect that doubt. The safety limits built into the app (calorie floors, rate-of-loss caps) reduce risk but do not make a target right for your body.
 - **Weekly experiments.** The weekly review may suggest one small change for the week, including cutting back on something (sugar, sweet drinks, eating late, the size of one meal, or weekend calories). These are optional suggestions worked out from your log by fixed rules, not advice for your body. They stay inside the app's safety limits: never a daily total under your calorie floor, no calorie cut unless your goal is to lose weight or recomp, and no cut at all for anyone underweight, possibly under 18, or recently given a safety reply about eating. Stop and talk to a professional if cutting back makes you feel unwell or preoccupied with food.
+- **What your log shows.** The findings on that screen (for example how your weight trend compares with your plan, what your lifts did while your weight changed, or which habit accounts for the most calories) are worked out from your own log by fixed rules. They are patterns in what you logged, only as accurate as the log is, and not proof of what causes what. Anything they say about fat, muscle or how much you burn is what a log can suggest, not a measurement of your body. They are not advice for your body, and they stay inside the same safety limits as weekly experiments: nothing about weight and no suggestion to eat less for anyone underweight, possibly under 18, or recently given a safety reply about eating.
 - **Safety replies.** If a message looks like a crisis, an eating-disorder risk, a medical emergency or a person under 18, Carbon answers with a fixed message and does not use its AI. This is not a diagnosis and not emergency care. Carbon's AI replies are also checked automatically, and some are removed; these checks can miss things.
 
 ## 4. Health, diet and exercise are your responsibility
@@ -37,7 +38,7 @@ Carbon is an AI, including when it writes the caption on a share card, and can b
 
 ## 6. Using CarbonOS fairly
 
-Free includes 40 messages to Carbon a day and 5 photo scans a week. Pro includes 150 messages a day and up to 30 photo scans a day. Share cards (section 8): Free includes one card shared a month, Pro has no monthly limit, and the AI caption writer is limited per day (currently 6 on Free and 40 on Pro). We may also limit how fast you can send requests (currently 20 scans an hour) to stop abuse. If many people use the free plan on one day, we may pause free AI use until the next day; Pro is not affected. You must not:
+Free includes 40 messages to Carbon a day and 5 photo scans a week. Pro includes 150 messages a day and up to 30 photo scans a day. What your log shows (section 3): Free includes the findings worked out from your food alone and the protective ones (such as a jump in running distance); the findings that read your food against your weight and training are part of Pro. Share cards (section 8): Free includes one card shared a month, Pro has no monthly limit, and the AI caption writer is limited per day (currently 6 on Free and 40 on Pro). We may also limit how fast you can send requests (currently 20 scans an hour) to stop abuse. If many people use the free plan on one day, we may pause free AI use until the next day; Pro is not affected. You must not:
 
 - try to get around limits, or attack, overload, probe or reverse-engineer the service;
 - try to make Carbon ignore its instructions, or use it for anything other than your own food, drink, training and related questions;

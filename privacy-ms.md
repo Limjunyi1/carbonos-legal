@@ -5,7 +5,7 @@ lang: ms
 ---
 # Dasar Privasi CarbonOS
 
-*Berkuat kuasa 10 November 2026 · [English](../privacy/) · [Terma Penggunaan](../terms/) (dalam bahasa Inggeris)*
+*Berkuat kuasa 14 November 2026 · [English](../privacy/) · [Terma Penggunaan](../terms/) (dalam bahasa Inggeris)*
 
 CarbonOS menyimpan log anda di telefon anda. Pelayan kami hanya menyimpan akaun anda, pelan anda dan jumlah peruntukan yang telah anda gunakan, serta salinan log anda hanya jika anda menghidupkan Sandaran. Kami tidak sekali-kali menjual data anda, memaparkan iklan atau menjejaki anda merentas aplikasi lain.
 
@@ -24,6 +24,7 @@ Apa yang anda log disimpan di peranti anda, dalam pangkalan data aplikasi dan da
 - Senaman dan timbang berat badan
 - Profil anda untuk sasaran (jantina, tahun lahir, tinggi, berat, tahap aktiviti, matlamat) dan sasaran anda
 - Perbualan anda dengan Carbon, pelan makan dan ulasan mingguan
+- Apa yang ditunjukkan oleh log anda ("What your log shows"): penemuan pada skrin itu (contohnya bila protein anda diambil sepanjang hari, atau bagaimana trend berat badan anda berbanding dengan pelan anda) dikira di telefon anda daripada makanan, timbangan berat badan dan senaman anda sendiri. Pengiraan itu tidak menghantar apa-apa ke mana-mana. Penemuan yang telah anda lihat disimpan di telefon ini sahaja dan tidak termasuk dalam sandaran
 - Nota yang anda berikan kepada Carbon tentang diri anda, jika ada ("Carbon knows you" di Tetapan): cara anda makan (contohnya halal atau vegetarian), alahan atau makanan yang tidak boleh anda ambil, makanan yang anda tidak suka, bila anda bersenam, apa-apa lagi yang anda tulis, dan perkara yang Carbon tawarkan untuk diingati dan anda pilih untuk simpan (contohnya tarikh perlumbaan atau kecederaan yang perlu dielakkan; tiada apa-apa disimpan melainkan anda menekan untuk menyimpannya). Sebahagiannya boleh mendedahkan agama atau kesihatan anda. Ubah, buang atau kosongkan pada bila-bila masa di Tetapan
 - Bilangan kad kongsi yang telah anda gunakan bulan ini, dan kapsyen yang anda siarkan baru-baru ini (supaya yang seterusnya berbeza)
 - Langkah dan tenaga aktif daripada Apple Health atau Health Connect, jika anda menyambungkannya (dipaparkan, tidak disimpan)
@@ -54,7 +55,7 @@ Jawapan Carbon dihasilkan oleh model AI. Aplikasi meminta kebenaran anda sebelum
 
 Permintaan kepada Carbon mengandungi apa yang anda taip atau foto makanan anda, serta konteks yang diperlukan untuk menjawab: makanan, senaman dan berat badan hari itu, jumlah harian terkini, sasaran anda, makanan yang kerap anda log, perbualan terkini hari itu dan beberapa hari sebelumnya, ringkasan log anda, dan nota anda untuk Carbon jika ada. Ia dihantar ke pelayan kami dan kepada penyedia AI kami, yang menghasilkan jawapan.
 
-- Ringkasan log anda dikira di telefon anda. Dengan Pro, ia merangkumi sehingga 13 bulan terakhir: purata bulanan dan mingguan apa yang anda makan (kalori dan protein), bilangan senaman, set, minit dan kilometer, purata berat badan anda, makanan yang paling kerap anda ambil dan hari terakhir anda mengambil setiap satunya, angkatan terbaik anda, serta jumlah, sesi terpanjang dan terpantas bagi setiap aktiviti kardio. Untuk Percuma, ia hanya minit aktif dan hari latihan kekuatan minggu ini.
+- Ringkasan log anda dikira di telefon anda. Dengan Pro, ia merangkumi sehingga 13 bulan terakhir: purata bulanan dan mingguan apa yang anda makan (kalori dan protein), bilangan senaman, set, minit dan kilometer, purata berat badan anda, makanan yang paling kerap anda ambil dan hari terakhir anda mengambil setiap satunya, angkatan terbaik anda, serta jumlah, sesi terpanjang dan terpantas bagi setiap aktiviti kardio. Untuk Percuma, ia hanya minit aktif dan hari latihan kekuatan minggu ini. Untuk semua pelan, ia juga membawa penemuan yang ditunjukkan kepada anda oleh pelan anda di bawah "What your log shows", sebagai beberapa baris pendek (paling banyak enam), supaya Carbon menjawab berdasarkannya; penemuan yang tidak ditunjukkan oleh pelan anda tidak dihantar.
 - Apabila anda bertanya tentang hari yang lebih awal, Carbon meminta telefon anda bahagian log itu: makanan, senaman, berat badan atau perbualan pada hari-hari yang ditanya, atau bila kali terakhir anda mengambil sesuatu makanan. Telefon anda membacanya dan menghantar bahagian itu sahaja, untuk soalan itu sahaja. Percuma boleh melihat 14 hari ke belakang, Pro lebih jauh.
 - Carbon bekerja melalui alat: ia boleh merekod makanan, senaman atau berat badan, membetulkannya, mencadangkan apa yang hendak dimakan, mencadangkan sasaran baharu dan menawarkan untuk mengingati sesuatu yang anda beritahu. Setiap perubahan muncul dalam log anda, di mana anda boleh membuat asal atau mengeditnya; sasaran baharu dan perkara untuk diingati hanya disimpan apabila anda menekan untuk menyimpannya.
 

@@ -4,7 +4,7 @@ permalink: /privacy/
 ---
 # CarbonOS Privacy Policy
 
-*Effective 10 November 2026 · [Bahasa Malaysia](../privacy-ms/) · [Terms of Use](../terms/)*
+*Effective 14 November 2026 · [Bahasa Malaysia](../privacy-ms/) · [Terms of Use](../terms/)*
 
 CarbonOS keeps your log on your phone. Our servers hold your account, your plan and how much of your allowance you have used, plus a copy of your log only if you turn on Backup. We never sell your data, show ads or track you across other apps.
 
@@ -21,6 +21,7 @@ What you log is stored on your device, in the app's database and in a folder of 
 - Workouts and weigh-ins
 - Your profile for targets (sex, birth year, height, weight, activity, goal) and your targets
 - Your conversation with Carbon, meal plans and weekly reviews
+- What your log shows: the findings on that screen (for example when your protein arrives across the day, or how your weight trend compares with your plan) are worked out on your phone from your own meals, weigh-ins and workouts. Working them out sends nothing anywhere. Which ones you have already seen is kept on this phone only and is not part of a backup
 - Notes you give Carbon about yourself, if you add any ("Carbon knows you" in Settings): how you eat (for example halal or vegetarian), allergies or foods you can't have, foods you don't like, when you train, anything else you write, and things Carbon offered to remember that you chose to keep (for example a race date or an injury to work around; nothing is kept unless you tap to keep it). Some of these can reveal your religion or health. Change, remove or clear them any time in Settings
 - How many share cards you have used this month, and the captions you posted lately (so the next one is different)
 - Steps and active energy read from Apple Health or Health Connect, if you connect it (shown, never saved)
@@ -51,7 +52,7 @@ Carbon's answers are made by an AI model. The app asks your permission before it
 
 A request to Carbon contains what you typed or your meal photos, plus the context needed to answer: that day's meals, workouts and weigh-in, recent daily totals, your targets, foods you log often, the recent chat of that day and the few days before it, a summary of your log, and your notes for Carbon if you added any. It goes to our server and to our AI provider, which generates the answer.
 
-- The summary of your log is worked out on your phone. With Pro it covers up to the last 13 months: monthly and weekly averages of what you ate (calories and protein), how many workouts, sets, minutes and kilometres, your average weigh-in, the foods you have most and the last day you had each, your best lifts and the totals, longest and fastest of each cardio activity. On Free it is only this week's active minutes and strength days.
+- The summary of your log is worked out on your phone. With Pro it covers up to the last 13 months: monthly and weekly averages of what you ate (calories and protein), how many workouts, sets, minutes and kilometres, your average weigh-in, the foods you have most and the last day you had each, your best lifts and the totals, longest and fastest of each cardio activity. On Free it is only this week's active minutes and strength days. On every plan it also carries the findings your plan shows you under "What your log shows", as a few short lines (at most six), so that Carbon answers from them; a finding your plan does not show you is not sent.
 - When you ask about an earlier day, Carbon asks your phone for that part of your log: the meals, workouts, weigh-ins or chat in the days your question is about, or when you last had a food. Your phone reads it and sends just that, for that question only. Free can look back 14 days, Pro further.
 - Carbon works through tools: it can record a meal, a workout or a weigh-in, fix one, suggest what to eat, propose new targets and offer to remember something you told it. Every change appears in your log, where you can undo or edit it; new targets and things to remember are only saved when you tap to keep them.
 
